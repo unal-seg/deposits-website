@@ -1,4 +1,4 @@
-## segUNBOG-deposits-website
+## Tipos de Depósitos Minerales Website | SEG-UNBOG
 
 Página web que presenta imágenes y descripciones de los depósitos minerales de mayor interés geológico.
 
